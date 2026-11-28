@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Glucose Subtitles",
+  "url": "https://doubl.one/product/glucose-subtitles",
+  "categories": [
+    "productivity-tools",
+    "utilities"
+  ],
+  "description": "Browser extension that translates video captions.",
+  "offer": "50% off during the Black Friday sale.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

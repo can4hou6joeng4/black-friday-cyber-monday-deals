@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Kira-AI",
+  "url": "https://getkira.com/black-friday",
+  "categories": [
+    "business-tools",
+    "general-ai-tools"
+  ],
+  "description": "Hiring tool for conducting and reviewing first-round voice interviews.",
+  "offer": "New monthly subscribers pay $74 instead of $149 for Starter or $174 instead of $349 for Professional for the first 12 months. Applied automatically.",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

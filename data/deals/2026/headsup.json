@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "HeadsUp",
+  "url": "https://headsup.bot/black-friday",
+  "categories": [
+    "business-tools",
+    "marketing-seo"
+  ],
+  "description": "Monitors competitor website changes and sends alerts and summaries.",
+  "offer": "Lifetime prices through Nov 28 PT are $249 for Solo, $399 for Pro and $649 for Team. On Nov 29 and 30 PT, the one-time prices rise to $299, $449 and $699, respectively.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026 PT or after 150 licenses sell out",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "MatchDNS",
+  "url": "https://www.matchdns.com/promo/2026-blackfriday",
+  "categories": [
+    "developer-infrastructure"
+  ],
+  "description": "Authoritative DNS hosting with geographic routing, DNSSEC and monitoring.",
+  "offer": "50% off eligible annual plans with **BF2026**. Pro is $9.95/year and Enterprise is $44.95/year. The discounted price carries over at renewal.",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 1, 2026 at 08:00 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

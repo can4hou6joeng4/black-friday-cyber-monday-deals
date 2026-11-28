@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Paste Box Scratchpad",
+  "url": "https://apps.apple.com/us/app/paste-box-scratchpad/id6782422301",
+  "categories": [
+    "productivity-tools",
+    "utilities"
+  ],
+  "description": "Mac clipboard history and persistent scratchpad.",
+  "offer": "$0.99 instead of $2.99 in the US Mac App Store. No code needed.",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

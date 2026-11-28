@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Mailazy",
+  "url": "https://mailazy.com/blog/black-friday-deals",
+  "categories": [
+    "marketing-seo",
+    "developer-infrastructure"
+  ],
+  "description": "Email delivery, newsletters and behavioral automation.",
+  "offer": "30% off with code **THANKS30**, entered on the payment page.",
+  "couponCodes": [
+    "THANKS30"
+  ],
+  "validity": "Available for three months from Nov 5, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

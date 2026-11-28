@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "VidCap",
+  "url": "https://vidcap.app/promos/blackfriday26/",
+  "categories": [
+    "design-tools",
+    "social-media-tools"
+  ],
+  "description": "Adds and styles automatic captions for videos on iPhone, iPad and Mac.",
+  "offer": "35% off the first year of Pro Yearly for new and returning subscribers with **BLACKFRIDAY26**. The US price is $38.99 for the first year, then $59.99/year.",
+  "couponCodes": [
+    "BLACKFRIDAY26"
+  ],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

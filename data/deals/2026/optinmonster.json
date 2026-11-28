@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "OptinMonster",
+  "url": "https://optinmonster.com/black-friday/",
+  "categories": [
+    "marketing-seo",
+    "design-tools"
+  ],
+  "description": "Lead capture tools for forms, popups and targeted campaigns.",
+  "offer": "Up to 60% off new subscriptions and eligible upgrades. Regular renewal pricing applies.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

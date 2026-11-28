@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Fleet: The Multiview Browser",
+  "url": "https://apps.apple.com/app/id1183559550",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Mac browser for displaying and refreshing multiple web pages side by side.",
+  "offer": "$3.99 instead of $8.99 in the US Mac App Store. No code needed.",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

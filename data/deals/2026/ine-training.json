@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "INE",
+  "url": "https://learn.ine.com/2026-black-friday-promotions",
+  "categories": [
+    "developer-courses"
+  ],
+  "description": "Training and certification preparation for networking, cloud and cybersecurity.",
+  "offer": "INE Premium is $499 instead of $799. The Premium and Skill Dive bundle is $649 instead of $1,098. Discounts apply at checkout.",
+  "couponCodes": [],
+  "validity": "Nov 20 to Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

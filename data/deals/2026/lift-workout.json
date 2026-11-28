@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Lift",
+  "url": "https://hapday.app/black-friday-2026/",
+  "categories": [
+    "health-and-fitness"
+  ],
+  "description": "Mobile workout and fitness tracking app.",
+  "offer": "Eligible users get the first year for $16 with code **BF2026LIFT**, then $39.99/year.",
+  "couponCodes": [
+    "BF2026LIFT"
+  ],
+  "validity": "Ends Nov 30, 2026 at 21:00 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

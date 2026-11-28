@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Rank Math",
+  "url": "https://rankmath.com/offer/",
+  "categories": [
+    "marketing-seo",
+    "developer-tools"
+  ],
+  "description": "WordPress SEO plugin for site metadata, sitemaps and search optimization.",
+  "offer": "Up to 50% off annual SEO plans during the Cyber Monday sale with **CYBERMONDAY26**.",
+  "couponCodes": [
+    "CYBERMONDAY26"
+  ],
+  "validity": "Through Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

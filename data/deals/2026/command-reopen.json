@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Command Reopen",
+  "url": "https://commandreopen.com/",
+  "categories": [
+    "desktop-customization",
+    "productivity-tools"
+  ],
+  "description": "Makes macOS Command-Tab restore minimized windows or reopen an app window.",
+  "offer": "50% off the one-time purchase with App Store code **BF2026**, bringing it to $4.99 instead of $9.99.",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

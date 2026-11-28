@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Visibility.so",
+  "url": "https://visibility.so/black-friday/",
+  "categories": [
+    "marketing-seo",
+    "general-ai-tools"
+  ],
+  "description": "SEO automation for research, content and visibility tracking.",
+  "offer": "New customers get 50% off the first Pro payment with **BLACKFRIDAY50**. Monthly is $49.50 for the first month and yearly is $498 per project for the first year.",
+  "couponCodes": [
+    "BLACKFRIDAY50"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

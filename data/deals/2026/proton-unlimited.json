@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Proton Unlimited",
+  "url": "https://proton.me/black-friday",
+  "categories": [
+    "utilities",
+    "productivity-tools"
+  ],
+  "description": "Bundle of Proton's encrypted mail, VPN, cloud storage, calendar and password manager.",
+  "offer": "The first year is $77.88, equivalent to $6.49/month when billed annually. Renews at $119.88/year.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

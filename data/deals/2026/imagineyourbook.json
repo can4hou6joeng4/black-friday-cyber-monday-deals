@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ImagineYourBook",
+  "url": "https://www.imagineyourbook.com/blackfriday",
+  "categories": [
+    "design-tools",
+    "utilities"
+  ],
+  "description": "Tool for turning manuscripts into narrated audiobooks.",
+  "offer": "Non-expiring credits for 2, 5 or 10 novels cost $59, $119 or $199 instead of $160, $400 or $800.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

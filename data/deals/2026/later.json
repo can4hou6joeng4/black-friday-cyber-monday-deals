@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Later",
+  "url": "https://later.com/black-friday-sale/",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Social media planning, scheduling and analytics platform.",
+  "offer": "New customers get six months free compared with monthly billing on their first annual Growth or Scale purchase with **LATERBF26**. Three months are included in annual pricing and the code adds three more.",
+  "couponCodes": [
+    "LATERBF26"
+  ],
+  "validity": "Ends Dec 4, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

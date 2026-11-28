@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Optery",
+  "url": "https://www.optery.com/pricing/",
+  "categories": [
+    "utilities"
+  ],
+  "description": "Personal data removal service that tracks and requests removals from data brokers.",
+  "offer": "20% off with code **THANKS2026**.",
+  "couponCodes": [
+    "THANKS2026"
+  ],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

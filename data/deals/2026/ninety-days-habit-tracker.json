@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Ninety Days: Habit Tracker",
+  "url": "https://ninety-days.app/en/",
+  "categories": [
+    "productivity-tools"
+  ],
+  "description": "Habit tracker with 30-, 60- and 90-day challenges.",
+  "offer": "In Germany, Monthly Premium is €1.99 instead of €4.99 for the first three months with **BLACK90M**, or Yearly Premium is €14.99 instead of €29.99 for the first year with **BLACK90Y**. Redeem in the app.",
+  "couponCodes": [
+    "BLACK90M",
+    "BLACK90Y"
+  ],
+  "validity": "Nov 27 to Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Mouse Hider",
+  "url": "https://apps.apple.com/us/app/mouse-hider/id894419721",
+  "categories": [
+    "utilities",
+    "desktop-customization"
+  ],
+  "description": "Mac utility that hides the pointer after inactivity, at a screen edge or with a keyboard shortcut.",
+  "offer": "$0.49 instead of $0.99 in the US Mac App Store. No code needed.",
+  "couponCodes": [],
+  "validity": "Nov 27 to Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Refinar",
+  "url": "https://refinar.ai/en/pricing",
+  "categories": [
+    "ai-powered-tools-for-developers",
+    "developer-tools"
+  ],
+  "description": "Build and modify web apps with a live preview and a GitHub-backed codebase.",
+  "offer": "New customers get 50% off monthly plans for the first 12 months. The discounted tiers are $12.50, $25 and $47.50 per month. No code needed.",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

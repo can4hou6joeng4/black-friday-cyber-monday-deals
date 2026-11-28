@@ -118,7 +118,7 @@ Get a **homepage hero slot**, a **pinned deal** with a Sponsored badge, and a me
 | :- | :- | :- | :- | :- |
 | [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
 | [Cloudways](https://www.cloudways.com/en/) | Managed cloud hosting for WordPress, PHP and Node.js apps. | 80% off the first 2 months for new accounts with code **BFCM802**, up to $200 off per month | Sign up by Dec 4 | ✅ |
-| [Hosting.com](https://hosting.com/) | Managed web hosting, WordPress plans, VPS and dedicated servers. | Up to 89% off web hosting when paying for 12 months (Starter $1.49/mo) | - | ✅ |
+| [Hosting.com](https://hosting.com/black-friday/) | Managed web hosting, WordPress plans, VPS and dedicated servers. | Up to 89% off eligible 12-month web hosting plans. Starter is $1.49/month for the first year when paid upfront. | Ends Nov 30, 2026 | ✅ |
 | [Hostinger](https://www.hostinger.com/black-friday) | Web hosting with WordPress, website builder and VPS plans. | Up to 85% off 48-month hosting plans, plus 2x Hostinger credits | Oct 19 to Dec 14, 2026 | ✅ |
 | [Pulsetic](https://pulsetic.com/black-friday/) | Uptime monitoring and status pages for websites. | 40% off the first year of a yearly plan or the first month of a monthly plan with code **KEEPITGREEN40** | Ends Tue Dec 1, 11:59 pm PT | ✅ |
 

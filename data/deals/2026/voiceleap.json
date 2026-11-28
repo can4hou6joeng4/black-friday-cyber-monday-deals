@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "VoiceLeap",
+  "url": "https://voiceleap.ai/",
+  "categories": [
+    "productivity-tools",
+    "general-ai-tools"
+  ],
+  "description": "Mac app for near-real-time voice translation and captions.",
+  "offer": "25% off Standard Annual or Standard Lifetime with **HOLIDAY_26**. Annual is $21.75 and Lifetime is $36.75 once.",
+  "couponCodes": [
+    "HOLIDAY_26"
+  ],
+  "validity": "Ends Jan 3, 2027 at 00:00 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

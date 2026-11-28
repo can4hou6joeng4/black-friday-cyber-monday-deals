@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Paperman",
+  "url": "https://doubl.one/product/paperman",
+  "categories": [
+    "desktop-customization",
+    "productivity-tools"
+  ],
+  "description": "Paper texture overlay for making desktop screens easier to look at.",
+  "offer": "25% off during the Black Friday sale.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

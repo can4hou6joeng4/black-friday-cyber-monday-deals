@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Unclutter",
+  "url": "https://unclutterapp.com/",
+  "categories": [
+    "productivity-tools",
+    "utilities"
+  ],
+  "description": "Mac desktop shelf for notes, files and clipboard history.",
+  "offer": "50% off the individual license with code **UN-BLACKFRIDAY-2026**, bringing it to $15 instead of $30.",
+  "couponCodes": [
+    "UN-BLACKFRIDAY-2026"
+  ],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

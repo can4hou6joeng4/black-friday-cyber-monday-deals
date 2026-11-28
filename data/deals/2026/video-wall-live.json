@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Video Wall Live",
+  "url": "https://www.videowalllive.com/blackfriday",
+  "categories": [
+    "utilities"
+  ],
+  "description": "View multiple Ring camera feeds on a TV, computer or tablet.",
+  "offer": "New signups pay $1.99 instead of $4.99 per camera per month after a 30-day free trial. No code needed.",
+  "couponCodes": [],
+  "validity": "Nov 2 to Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

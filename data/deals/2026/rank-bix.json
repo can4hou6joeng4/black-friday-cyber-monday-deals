@@ -1,0 +1,16 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Rank Bix",
+  "url": "https://rankbix.com/black-friday/",
+  "categories": [
+    "marketing-seo"
+  ],
+  "description": "Website SEO audits and reports.",
+  "offer": "70% off yearly and lifetime Pro plans with **BF70**. Yearly plans start at $18 and lifetime plans start at $75.",
+  "couponCodes": [
+    "BF70"
+  ],
+  "validity": "Ends Dec 5, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

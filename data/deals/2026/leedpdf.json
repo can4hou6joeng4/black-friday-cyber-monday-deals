@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "LeedPDF",
+  "url": "https://doubl.one/product/leedpdf",
+  "categories": [
+    "productivity-tools",
+    "design-tools"
+  ],
+  "description": "PDF annotation and markup editor for mouse, touch or stylus.",
+  "offer": "40% off during the Black Friday sale.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

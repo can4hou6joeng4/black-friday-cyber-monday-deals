@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Scalelist",
+  "url": "https://scalelist.com/pricing/",
+  "categories": [
+    "marketing-seo",
+    "business-tools"
+  ],
+  "description": "B2B contact data and list enrichment platform.",
+  "offer": "40% off the first year of eligible annual plans. The 5,000-credit plan is $1,433 instead of $2,388 for the first year.",
+  "couponCodes": [],
+  "validity": "Ends Dec 2, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

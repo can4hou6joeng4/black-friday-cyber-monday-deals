@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Slack",
+  "url": "https://slack.com/intl/en-sg/promo/partner",
+  "categories": [
+    "productivity-tools",
+    "business-tools"
+  ],
+  "description": "Team communications platform for messaging, channels and calls.",
+  "offer": "25% off the first 12 months of an eligible paid upgrade for companies with up to 200 employees.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

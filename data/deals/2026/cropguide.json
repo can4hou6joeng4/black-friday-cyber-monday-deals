@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "CropGuide",
+  "url": "https://cropguide.io/pricing/",
+  "categories": [
+    "developer-tools",
+    "design-tools"
+  ],
+  "description": "Adds an image editor to file-upload fields so users can crop and adjust images before submitting them.",
+  "offer": "50% off yearly subscriptions with code **BF26**.",
+  "couponCodes": [
+    "BF26"
+  ],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

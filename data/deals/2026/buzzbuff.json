@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "BuzzBuff",
+  "url": "https://buzzbuff.com/pricing",
+  "categories": [
+    "social-media-tools",
+    "marketing-seo"
+  ],
+  "description": "Analyzes public YouTube channels to show breakout videos, posting patterns and channel performance.",
+  "offer": "40% off the first payment with code **CYBER40**. Pro Yearly is $57 instead of $95 and Max Yearly is $172.20 instead of $287.",
+  "couponCodes": [
+    "CYBER40"
+  ],
+  "validity": "Ends Dec 2, 2026 UTC",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "DoublShot",
+  "url": "https://doubl.one/product/doublshot",
+  "categories": [
+    "screen-capture",
+    "design-tools"
+  ],
+  "description": "Screenshot tool for Windows and Mac with automatic backgrounds, padding and shadows.",
+  "offer": "50% off Pro during the Black Friday sale.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ChatbotGen",
+  "url": "https://www.chatbotgen.com/pricing",
+  "categories": [
+    "business-tools",
+    "general-ai-tools"
+  ],
+  "description": "Customer support chatbot for websites and messaging apps, with lead capture and human handoff.",
+  "offer": "50% off the first three months of any plan with code **BF50**, applied at checkout. Starter is $14.50/month during the offer period.",
+  "couponCodes": [
+    "BF50"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

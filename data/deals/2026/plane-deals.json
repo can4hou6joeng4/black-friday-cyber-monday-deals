@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "plane.deals",
+  "url": "https://plane.deals/black-friday",
+  "categories": [
+    "miscellaneous"
+  ],
+  "description": "Flight price alerts for travelers.",
+  "offer": "First month free on Pro or Elite monthly with **BFMONTHFREE**, or 25% off the first year of an annual plan with **BLACKFRIDAY25**.",
+  "couponCodes": [
+    "BFMONTHFREE",
+    "BLACKFRIDAY25"
+  ],
+  "validity": "Ends Nov 30, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Wordfully",
+  "url": "https://www.wordfully.ai/c/BLACKFRIDAY2026",
+  "categories": [
+    "productivity-tools",
+    "general-ai-tools"
+  ],
+  "description": "Writing assistant for grammar, clarity and rewriting in web apps.",
+  "offer": "50% off the first Pro payment with **BLACKFRIDAY2026**. Monthly is $10 for the first month and yearly is $54 for the first year.",
+  "couponCodes": [
+    "BLACKFRIDAY2026"
+  ],
+  "validity": "Ends Dec 4, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

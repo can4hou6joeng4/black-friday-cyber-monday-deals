@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Startup Buffer",
+  "url": "https://startupbuffer.com/promote",
+  "categories": [
+    "marketing-seo",
+    "business-tools"
+  ],
+  "description": "Directory and promotional placement for startups.",
+  "offer": "50% off Power and Vanta homepage features. Two weeks are $24.50 instead of $49, or three months are $149.50 instead of $299.",
+  "couponCodes": [],
+  "validity": "Ends Dec 4, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "SocialPilot",
+  "url": "https://www.socialpilot.co/black-friday",
+  "categories": [
+    "social-media-tools"
+  ],
+  "description": "Social media management and analytics for teams and agencies.",
+  "offer": "30% off the first year of eligible annual plans or 20% off eligible monthly plans for 12 months. Available to new customers in supported regions.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

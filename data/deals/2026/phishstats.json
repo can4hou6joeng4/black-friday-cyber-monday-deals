@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "PhishStats",
+  "url": "https://phishstats.info/blackfriday",
+  "categories": [
+    "developer-infrastructure",
+    "developer-tools"
+  ],
+  "description": "Phishing intelligence and monitoring for security teams.",
+  "offer": "30% off the first year of Enterprise for new subscriptions with **BF2026**. The first year is $69.30, then $99/year.",
+  "couponCodes": [
+    "BF2026"
+  ],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

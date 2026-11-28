@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Scarlet Shark",
+  "url": "https://scarletshark.com/promo/cybermonday2026.html",
+  "categories": [
+    "developer-infrastructure",
+    "developer-tools"
+  ],
+  "description": "Threat intelligence alerting and monitoring for security teams.",
+  "offer": "New Basic subscribers get five months free with **CyberMonday2026**, then the plan renews at $10/month plus tax.",
+  "couponCodes": [
+    "CyberMonday2026"
+  ],
+  "validity": "Ends Jan 30, 2027",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

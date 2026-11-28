@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Tuta",
+  "url": "https://tuta.com/black-friday",
+  "categories": [
+    "utilities",
+    "productivity-tools"
+  ],
+  "description": "Encrypted email and calendar service.",
+  "offer": "New annual Revolutionary or Legend subscribers get 24 months for the price of 12.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

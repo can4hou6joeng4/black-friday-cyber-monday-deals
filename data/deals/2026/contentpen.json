@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Contentpen",
+  "url": "https://contentpen.ai/black-friday",
+  "categories": [
+    "marketing-seo",
+    "general-ai-tools"
+  ],
+  "description": "SEO content research, writing and publishing platform.",
+  "offer": "40% off the first year on annual plans. Eligible quarterly plans get 20% off their first billing period.",
+  "couponCodes": [],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

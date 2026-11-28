@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "iKnowMyMac + iKnowMyDisplay",
+  "url": "https://iknowmymac.com/",
+  "categories": [
+    "utilities",
+    "developer-tools"
+  ],
+  "description": "Mac tools for monitoring system resource use and managing displays.",
+  "offer": "Get both apps for $5.99 instead of $7.99 while launch licenses are available.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026 or when launch licenses sell out",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

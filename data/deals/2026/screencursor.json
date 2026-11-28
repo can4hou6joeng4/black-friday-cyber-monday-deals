@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "ScreenCursor",
+  "url": "https://screencursor.com/",
+  "categories": [
+    "screen-capture",
+    "design-tools"
+  ],
+  "description": "Chrome screen recorder that automatically zooms to clicks and other actions.",
+  "offer": "70% off the lifetime license with code **Black**, bringing the one-time price to $14.70 instead of $49.",
+  "couponCodes": [
+    "Black"
+  ],
+  "validity": "Ends Nov 30, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

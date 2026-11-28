@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "VPN Super",
+  "url": "https://vpnsuper.com/black-friday",
+  "categories": [
+    "utilities"
+  ],
+  "description": "VPN service with travel eSIM and virtual phone number options.",
+  "offer": "The Black Friday bundle starts at $2.99/month on the 24-month plan. The 12-month plan is advertised at $3.59/month.",
+  "couponCodes": [],
+  "validity": "Ends Dec 1, 2026",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

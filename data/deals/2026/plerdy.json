@@ -1,0 +1,17 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Plerdy",
+  "url": "https://www.plerdy.com/black-friday/",
+  "categories": [
+    "marketing-seo",
+    "design-tools"
+  ],
+  "description": "Website heatmaps, session replay, A/B testing and SEO tools.",
+  "offer": "50% off the first year of any yearly plan with code **plerdyBF2026**. Startup is $126 instead of $252.",
+  "couponCodes": [
+    "plerdyBF2026"
+  ],
+  "validity": "Ends Dec 2, 2026 at 11:59 PM PT",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

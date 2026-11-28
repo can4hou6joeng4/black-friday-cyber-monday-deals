@@ -1,0 +1,14 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Deepvue",
+  "url": "https://deepvue.com/black-friday-2026/",
+  "categories": [
+    "finance-tools"
+  ],
+  "description": "Market research, charting and trading journal software.",
+  "offer": "Core and Journal are $490/year. The rate stays in effect while the subscription remains active.",
+  "couponCodes": [],
+  "validity": "Ends Dec 4, 2026 at 11:59 PM ET",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

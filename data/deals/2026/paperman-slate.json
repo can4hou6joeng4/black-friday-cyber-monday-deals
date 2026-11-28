@@ -1,0 +1,15 @@
+{
+  "$schema": "../../product.schema.json",
+  "name": "Paperman Slate",
+  "url": "https://doubl.one/product/paperman-slate",
+  "categories": [
+    "design-tools",
+    "productivity-tools"
+  ],
+  "description": "iPad app for reading, handwriting and marking up documents on a paper-like canvas.",
+  "offer": "40% off during the Black Friday sale.",
+  "couponCodes": [],
+  "validity": "-",
+  "latest": null,
+  "addedAt": "2026-11-28T22:15:29+08:00"
+}

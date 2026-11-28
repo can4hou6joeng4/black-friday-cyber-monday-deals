@@ -1,14 +1,14 @@
 {
   "$schema": "../../product.schema.json",
   "name": "Hosting.com",
-  "url": "https://hosting.com/",
+  "url": "https://hosting.com/black-friday/",
   "categories": [
     "developer-infrastructure"
   ],
   "description": "Managed web hosting, WordPress plans, VPS and dedicated servers.",
-  "offer": "Up to 89% off web hosting when paying for 12 months (Starter $1.49/mo)",
+  "offer": "Up to 89% off eligible 12-month web hosting plans. Starter is $1.49/month for the first year when paid upfront.",
   "couponCodes": [],
-  "validity": "-",
+  "validity": "Ends Nov 30, 2026",
   "latest": true,
   "addedAt": "2026-11-26T12:25:03+05:30"
 }
